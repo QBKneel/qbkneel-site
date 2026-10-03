@@ -11,7 +11,7 @@
      CONTACT_EMAIL  plain address, e.g. "hello@qbkneel.com" (no "mailto:")
    ========================================================================== */
 window.QBK_CONFIG = {
-  BUY_BLACK_URL: "#",
+  BUY_BLACK_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-snapback-black",
   BUY_WHITE_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-snapback-white",
   STORE_URL: "https://bobbys-hat-shop.printful.me/",
   INSTAGRAM_URL: "#",
