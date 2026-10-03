@@ -15,6 +15,6 @@ window.QBK_CONFIG = {
   BUY_WHITE_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-snapback-white",
   STORE_URL: "https://bobbys-hat-shop.printful.me/",
   INSTAGRAM_URL: "https://www.instagram.com/qb_kneel/",
-  TWITTER_URL: "#",
+  TWITTER_URL: "https://x.com/QBKneel",
   CONTACT_EMAIL: "#"
 };
