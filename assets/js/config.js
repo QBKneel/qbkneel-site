@@ -16,5 +16,5 @@ window.QBK_CONFIG = {
   STORE_URL: "https://bobbys-hat-shop.printful.me/",
   INSTAGRAM_URL: "https://www.instagram.com/qb_kneel/",
   TWITTER_URL: "https://x.com/QBKneel",
-  CONTACT_EMAIL: "#"
+  CONTACT_EMAIL: "shopqbkneel@gmail.com"
 };
