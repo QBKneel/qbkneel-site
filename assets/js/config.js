@@ -15,7 +15,7 @@
 window.QBK_CONFIG = {
   BUY_BLACK_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-snapback-black-6ac12aaab0001",
   BUY_WHITE_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-snapback-white",
-  BUY_WORDMARK_BLACK_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-wordmark-snapback-black",
+  BUY_WORDMARK_BLACK_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-wordmark-snapback-black-6ac317f56ee24",
   BUY_WORDMARK_WHITE_URL: "https://bobbys-hat-shop.printful.me/product/qbkneel-wordmark-snapback-white",
   STORE_URL: "https://bobbys-hat-shop.printful.me/",
   INSTAGRAM_URL: "https://www.instagram.com/qb_kneel/",
