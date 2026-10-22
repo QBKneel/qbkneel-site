@@ -190,3 +190,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   .product-name { font-size: 1.85rem; }
   .product-price { font-size: 1.85rem; }
 }
+
+/* Team / booster orders */
+.team-orders { background: #f4f1ea; }
+.team-cta { text-align: center; margin: 1.5rem 0 0; }
